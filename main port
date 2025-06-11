@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pankaj Krishnan | Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Pankaj Krishnan</h1>
+    <p>Marketing Strategist | Digital Marketing Specialist | Brand Solution Expert</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <div class="card">
+      <p>I’m Pankaj Krishnan, a passionate and result-driven marketing professional with experience in brand strategy, digital marketing, and client relationship management. I’ve successfully led cross-functional teams and campaigns for brands across retail, healthcare, and education sectors.</p>
+      <p>From optimizing digital presence to executing 360° campaigns, I turn creative ideas into measurable business outcomes. I enjoy storytelling, data, and design to build unforgettable brand experiences.</p>
+    </div>
+
+    <h2>Experience</h2>
+    <div class="card">
+      <h3>Brand Solution Executive – BBP India Communications</h3>
+      <p><em>May 2024 – Oct 2024</em></p>
+      <ul>
+        <li>Led campaigns for Kalyan Hypermarket & Alan Scott.</li>
+        <li>Managed multi-channel marketing with internal teams.</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Assistant Manager – Sales – Yes Bank</h3>
+      <p><em>Aug 2023 – Oct 2023</em></p>
+      <ul>
+        <li>Developed sales funnels and customer communication plans.</li>
+        <li>Analyzed customer data for improved acquisition.</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Digital Marketing Intern – Quadcubes</h3>
+      <p><em>Dec 2023 – Feb 2024</em></p>
+      <ul>
+        <li>Executed SEO and lead generation strategies.</li>
+        <li>Created analytics reports using Google tools.</li>
+      </ul>
+    </div>
+
+    <h2>Projects</h2>
+    <div class="card">
+      <ul>
+        <li><strong>AI Chatbot in Banking</strong> – Studied customer experience with chatbot solutions.</li>
+        <li><strong>E-Commerce Impact Study</strong> – Analyzed e-commerce effects in rural Kerala.</li>
+      </ul>
+    </div>
+
+    <h2>Skills</h2>
+    <div class="card">
+      <ul>
+        <li>SEO, SMM, Google Ads & Analytics</li>
+        <li>Campaign Strategy & Branding</li>
+        <li>Excel, CRM, Client Communication</li>
+        <li>Team Leadership</li>
+      </ul>
+    </div>
+
+    <h2>Education</h2>
+    <div class="card">
+      <p><strong>MBA in Finance & Marketing</strong> – FISAT Business School, 2023 (68.35%)</p>
+      <p><strong>B.Com in Finance & Taxation</strong> – St. Mary’s College, 2021 (60.3%)</p>
+    </div>
+
+    <h2>Certifications</h2>
+    <div class="card">
+      <ul>
+        <li>Google Analytics & Ads (Skillshop)</li>
+        <li>Excel (LinkedIn Learning)</li>
+        <li>Digital Marketing – Google</li>
+        <li>NPTEL – IoT, Business Models</li>
+        <li>Capital Markets & Derivatives</li>
+      </ul>
+    </div>
+
+    <h2>Contact</h2>
+    <div class="card">
+      <p>📍 Al Karama, Dubai, UAE</p>
+      <p>📧 <a href="mailto:pankajkrishnan2@gmail.com">pankajkrishnan2@gmail.com</a></p>
+      <p>📞 +971 586141701</p>
+      <p>🔗 <a href="https://www.linkedin.com/in/pankaj-krishnan/" target="_blank">LinkedIn</a></p>
+    </div>
+  </section>
+
+  <footer>
+    &copy; 2025 Pankaj Krishnan | All rights reserved
+  </footer>
+</body>
+</html>
